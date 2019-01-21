@@ -1,0 +1,18 @@
+---
+title: "Tips and Tools"
+output: html_notebook
+---
+
+Useful links and snippets to help with data processing
+
+# What they forgot to teach us about R by Jennifer Bryan and Jim Hester
+https://whattheyforgot.org
+
+# Packages
+https://www.rstudio.com/resources/videos/you-can-make-a-package-in-20-minutes/
+  usethis::package()
+  Code > Insert Roxygen skeleton
+  Build > Document
+  
+## Using dplyr in packages
+https://dplyr.tidyverse.org/articles/programming.html
